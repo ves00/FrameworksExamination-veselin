@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link to ListofJobs test 1`] = `
+Array [
+  "  ",
+  <a
+    href="/localhost:3000/category/alljobs"
+    onClick={[Function]}
+  >
+    All Jobs 
+  </a>,
+  " ",
+]
+`;

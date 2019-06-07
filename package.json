@@ -1,0 +1,43 @@
+{
+  "name": "frameworks-examination-assignment",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "express.js": "^1.0.0",
+    "jest": "24.7.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-test-renderer": "^16.8.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start:dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/react": "^8.0.1",
+    "jest": "^24.6.4",
+    "nodemon": "^1.18.11"
+  }
+}
